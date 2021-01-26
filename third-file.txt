@@ -1,1 +1,3 @@
 This is the third file added to the Rebasing repository.
+
+New line in this file.
